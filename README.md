@@ -2,6 +2,7 @@ resource_hot_update
 ===================
 
 根据资源昨天的热度和昨天的下载量，更新资源今天的热度
+
 resource_type.py
 在该文件中添加了一个返回main_type总数的函数
 
